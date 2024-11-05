@@ -1,7 +1,7 @@
-import starbucks from "../Images/heart.png";
-import tesla from "../Images/heart.png";
-import shopify from "../Images/heart.png";
-import meta from "../Images/heart.png";
+import starbucks from "./heart.png";
+import tesla from "./heart.png";
+import shopify from "./heart.png";
+import meta from "./heart.png";
 
 const experiences = [
 
