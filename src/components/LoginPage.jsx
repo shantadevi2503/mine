@@ -11,7 +11,7 @@ const LoginPage = () => {
         e.preventDefault();
 
         // Convert inputs to lowercase and check if they match the expected values
-        if (name.toLowerCase() === 'rakshita' && password.toLowerCase() === 'iloveyoutoo') {
+        if (name.toLowerCase() === 'rakshita' && password.toLowerCase() === 'i love you too') {
             // Redirect to home page if credentials are correct
             window.location.href = '/home'; // Replace with your actual homepage route
         } else {
