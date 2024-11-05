@@ -57,7 +57,7 @@ const MemoriesPage = ({ experience }) => {
                 ))}
             </ul>
 
-            <button className="mt-2 text-black"> Read More </button>
+            {/* <button className="mt-2 text-black"> Read More </button> */}
         </VerticalTimelineElement>
     );
 };
