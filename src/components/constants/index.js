@@ -165,12 +165,23 @@ const experiences = [
   },
 
 
+  // Seventh Meet
+  {
+    title: "Seventh Meet",
+    icon: meta,
+    iconBg: "Black",
+    date: "Mar 30 - 2025",
+    points: [
+      "Atlast , after an whole 1 yr .. kadasiya unna march 1 appo pathadhu  aprm ippothan iniku dhan .... paathen march 30 ... basically after 1 yr and 29 days .....unna dailyum adha rectangle la  paathu site aadichitu irudhen ....aprm iniku .... unna nerla ...enaku pakathula paathen .....srsly appo kooda ennala namba moodiayal neethan ehh illa na summma kanavula irudhen na ...... adhuuvm avlo cute ehh ....azhaga ninitu irudha ...anga .... edhu ofcc maatha meet maari illa dhan ...bt edhuuvm enaku rmba special dhan .....cause after a whole year ..... unna pick panni ...seri atleast oru 1 hr bike pogalam dha paathen ..bt adhu dhan moodiayala.....bt irudhalaum paaruvala .... i got 30 mins unkooda ...adhuvehh enaku podhum(SUTHAMA PATHALA ENAKU I NEED MORE AND MORE AND MORE AND MORE AND MORE TIME)....srs ehh ..ehdo 3 sec maari dhan irudhcu ..... bt enna panrathu ... seri na kooda slow ehh suhtitu pona ...late ehh aaguam ...unkooda rmba neram time spend panalam dhan niacnhen .... bt enna panrathu ...avao slow ehh poiyum enaku time ehh paathala ..... btw i am extremely sorry for wht i did seriya ...ofccc..na rmba selfish eh dhan pannee..slow hh poi ...bt enku vera vali thrl thangooo adhunala dhan avalo slow hh ponene ..... plus ... nee vera avalo sonnna ..speed hh po nu ..bt apo kooda na pogalaa...adhku i am so sorry .... and rmba mookiyam .... again edha vaatiyum miss panniten .... seri edha vaatiy achum unna paatha odenyhh hug panni kiss panalamnu paatha ..... anga avalo peru irudhanga....again ennala paatha odeneyh hug or kiss panna modoayala.... edhu oda setha its been 7 meet seriya ....inum ippo vaikrum ..unna paatha odeneyhh hug and kiss panna modiayala....bt dont worry ..edhukagaveh edhu achum panni panrrenn ....seri anga vendam ... vera enga achum panalma nu paatha ...elalrum sunday adha mrng la enga dhan suthurnga dhan ..thrl ...ella places layum avalo kootam ..elalrum avnaga wife and  gf oda romace panrathu vitutu .... na panra adha chinna romance ehh distrub pannitu iruknaga ... very bad fellows ....epapdi street thedi thedi ehh enooda veedu ehh vandhurchu ...seri atlest bike la hug panalam nu paatha ..crt eh unga amma(macha) ...adhu epapdi dhan thrl ....unga veetula ..eppadi dhan kandu pidkirnaga dhan thrl enaku .....edha maari time la crt eh cl pannidurnga ..adhu enna nu frst na kanudpikanum ....paruvala ..irudlam ..macha enaku rmba help panranga adhuka na thanks soneneu solidu ...adhu dhan na unna apovehh cl la solla sonene..bt nee speed eh porathueyh mind irudha nala adha nee maathikavneh illa...bt nxt time na meet panum bothu cnfrm na solluren anvaga kitta thanks help panrrathukunu .... bt iruhdalum unna ennoda veetuku viturukalam..... jst joking ..lst line eh maatum macha kiita solaltha... aprm avalothan  enna potu thaludivaaga ..... seri atleast coffee shop la koodichityehh pesalam time spend panalm nu paatha ..madam coffee varadhu koolayehh auto book pannatanu kekura ..ennna yen ....enna perchana unaku ..... eppdi panrayeh ma nee ..... paruvala ...anga nmaba photos ehduuu jolly ehh dhan irhdum ... enauku dhan time suthama paathala...bt enna theiryume hh aasa seri ..inum oru 1 hr or 2 hr ...appieyh nanyeh unnoda veetula poi vitturalm dhan ..bt enna panrathu ...adhuku ..no way ....vaipu h illanu sollitnaga ..bt paruvalaa ..atlest nambaluku 30 min kadacihdiyehh ..na edha increment panndiuren ...namba time la ...edhula enna theryum ehh comedy ...namba commit aagi 3.5 yrs aachu seriya ...ana namba senthu irudha time paathuu vechiko ..jst 18 hrs dhan thiryum eh ..1 day kooda illla..... rmba kastam eh irku ..eppadi achum edha ethanaum ...frst ehh ..namba basic ehh 1 day kooda full hh onna nerla illa ..... edhuku ehdu achu vali kandupidhci na ennau soluren ..nee macha kitta matum okay vannngi vei seriya ... mathadhu ellam na ..paathukruen .... adhu vaikrum madam enna panringa ...edha paadichitu ..jolly eh pics ehh paathu enjoy pannnga seriya .....next oru nala meet up content oda unna again ...sandhikiren....adhu vaikrum nala padi nala enjoy pannu  .... ippothiku .... unndoa loosu || ammu || purush  ... ( kadasila repoter ehh aagiduven polayeh nanu) ",
+    ],
+  },
+
   // Still More
   {
     title: "Still More",
     icon: meta,
     iconBg: "Black",
-    date: "Sep 10 - Present",
+    date: "Mar 30 - Present",
     points: [
       "So ippothiku evalo dhan .....bt dont worry..... we wil create more and more memories and add here ... i will update here and we could read it eppo venum ehh ....",
     ],
