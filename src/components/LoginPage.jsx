@@ -35,7 +35,7 @@ const LoginPage = () => {
                     Princess's Name
                 </label>
                 <input
-                    className="w-64 h-10 border-2 border-black bg-beige rounded-md p-2 text-black font-semibold focus:border-blue-500 outline-none"
+                    className="w-64 h-10 border-2 border-black bg-beige rounded-md p-2 text-white font-semibold focus:border-blue-500 outline-none"
                     id="name"
                     name="name"
                     placeholder="Name"
@@ -48,7 +48,7 @@ const LoginPage = () => {
                     I Love You
                 </label>
                 <input
-                    className="w-64 h-10 border-2 border-black bg-beige rounded-md p-2 text-black font-semibold focus:border-blue-500 outline-none"
+                    className="w-64 h-10 border-2 border-black bg-beige rounded-md p-2 text-white font-semibold focus:border-blue-500 outline-none"
                     id="password"
                     name="password"
                     placeholder="Reply?"
