@@ -176,6 +176,28 @@ const experiences = [
     ],
   },
 
+  // eight Meet
+  {
+    title: "Eight Meet",
+    icon: meta,
+    iconBg: "Black",
+    date: "May 23 - 2025",
+    points: [
+      "Again namba meet panitom bt this time namba bike la ponom adhuuvm nambaloda bike la frst time la unaku enkooda ennoda bike la varudhu , namba nyt la pogalnu paathen bt paruvala atlest eve aachum ponomayeh , nala irudhucla edha meet eh ...ice cream saaptutu ...hug pannitu kiss panitu jolly ehh unna kalaichitu it was nice theriyum ehh ...rmba veyh nala iruhchu . bt enna notebook la vara maari ice cream saapdulanu paathen bt na matumeyh saapudura maari aadiuch  . bt na vida maaten saaptyeh thiruven nee vena paaru ..enakum time vaarum aniku saapdura ..ana enna adha time dhan eppo varudhu nu thrl ... seerkaama vandha nala irukm ...this time too namba kami eh dhan time spend pannaom bt it was nice ...rmba nala irudhcu even it was a small time it was so goood ..and as usual nee semmma azhaga irudha purple dress .....edha sollanaumyeh illa..cause eppoyum nee azhagu dhan...thangoo...",
+    ],
+  },
+
+  // Ninth Meet
+  {
+    title: "Ninth Meet",
+    icon: meta,
+    iconBg: "Black",
+    date: "May 24 - 2025",
+    points: [
+      "This meet was the best theryum eh ..mainly u and yuva fight made the day ...semmaya iruhchu theriyum ehh ....semmma fun eh ..jolly eh paahtutyeh irukalam adha ....semma fight srs eh ...na kooda rmba neram pogum nu paathen bt seekarama moodichiruch ..bt next perusa pananalm seriyaaa....cause rmba nal airudhcuh edhu ....bt adhu aprm dhan inum superb only us ..unna okara vekaveyh enaku ellam time podichu ....odneyh odenh veetuku pogura nee....next time paaru ....veetula irudh 3 hrs thoorathuku kooitu vnadhuruen ..appo dhan crt eh irukum ..nee veetuku porathuku ..illana odneyh odeneyh oodidiura.....nxt meet eallma paaru ..adhu dan panna poren ....thoorama kooittu poitu enojy pannalama...kitaa irudha .....rmba kastam eh iruk enak ....so next meet la irudh ahdu dhan plan eh ..execute panrom.....masss panrommmm....seriyaaaaa",
+    ],
+  },
+
   // Still More
   {
     title: "Still More",

@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
     const [typeEffect] = useTypewriter({
-        words: ['Ammu', 'Ma', 'Princess', 'Thangooo', 'Papa', 'Queen', 'Love', 'Madam'],
+        words: ['Ammu', 'Ma', 'Princess', 'Thangooo', 'Papa', 'Queen', 'Love', 'Madam', 'Loosu', 'panni', 'korangu', 'eruma'],
         loop: 0,
         typeSpeed: 100,
         deleteSpeed: 50,
@@ -44,7 +44,7 @@ const Home = () => {
                     enna venum nu sollu ellamyeh inga iruku...... jst oru button dhan ellameyhh un kannu mundai vandhu nikum.....
                     bt adhuvum illna u can call me anytime.... rmba vty ehh dhan irupen.... for contact call
                     <span className="text-pink-600"> 8667410621</span> or even mail is fine with me Mail id: <span className="text-pink-600">sara.pavansriram@gmail.com</span>
-                    ....... eppadiyum varadhuu.....bt irudhalum oru try dhan......seri okayy ejoyy ur day.... and have a lot of fun......
+                    ....... eppadiyum varadhuu....ana adhuku nu pannnama irukadha dii loooosu .....odeneh pannau ...oruthan inga summa pesama paavam ....photo kitaa pesitu iruak ...pathiyam aagurathuku moonadii cl pannidu ...illlana uanku dhan perchana paathuko ...rmba perchana.....bt irudhalum oru try dhan......seri okayy ejoyy ur day.... and have a lot of fun......
                 </p>
                 <p className="text-2xl md:text-4xl mt-6">
                     I LOVEEEEEEE YOUUUUUUU SOOOOOOOO MUCHHHHHHHH <span className="text-pink-600">{typeEffect}</span>
