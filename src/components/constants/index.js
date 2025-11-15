@@ -198,12 +198,23 @@ const experiences = [
     ],
   },
 
+  // Tenth Meet
+  {
+    title: "Tenth Meet",
+    icon: meta,
+    iconBg: "Black",
+    date: "Sep 5 - 2025",
+    points: [
+      "This meet semmaya irudhuchu dii srs ehh cause irukurathulyeh nerya neram enkoooda irudhadhu edhu dhan ... 8 hrs ... edhu varikum edhu hdan best timming ever adhu matum illama this meet marks our 1 day together theriyum edha 4 yrs sethu ippothan 1 day ona irudhukum adhuku karanmayeh edha day semmmala thangoo ..edha maari oru day vazhkai la marakavayeh moodiaythu .... and also seemaya irudhcu ...beach ponom ... kim chi ponom , adhuuvm main eh bike la ponum adhu dhan best ehh ...semmaya irudhcu adhan bowling , adn walking ....ellmayeh nala irudhuchu ... ana adha nai ehh ....kooruka adha kowshik vanhda maari vandhan paaru avan ....ipothan nanayeh kasta paatu kitta vnadha middle vandhu ookara try panran ...bad nai ....irukura onayye vechyeh samalika mooidayala naga edhua adhu vera ... bt adhu aprm kiss pannaum la adhu dhan best ehh ..after 1 yr namba kiss panaom ..semmaya irudhuch la ...ana enna rmba neam panna moodiayal adhu dan orey isseus ..matha padi ellmayeh seemmay airudhuchu ...adhu aprm poitu jolly ehh elanir saaptutu ....gift dhan irkurathulayeh mass ehh ..adhuuvm adha car ehh best gift ehh ever ..adah maari oru 10 car vaangi kooduthanu vechiko avlaothan ...masss panduaalam .... next time adha plan pananuam seriyaa ...adhu aprm poitu jolly ehh bowling ...ana nee semma bowling player dii srs ehh ...semmaya pota ...enna vida nerya pota ..ana enan na epapdi frst time eh epapdinala potanu dhan ... enan dii enakuyeh theiryama training edhaucm pariya nee ....adhud han na kandupidkanaum frst ehh .... ilana nee enaku training koodu enaku .... na frdn oda pona use aagaum la ....agayum jolly eh photos ....videos elalm edhuut masss pannitom ...aprm edhan day od highlight ehh .... the best on ..the frozen bottle..... semmaya irudhcuh la .....strt la summa milkeshakre koodakalau poitu ...kadasila adha thavera elamyeh panitim ....adha shop eh ehduku elam use panan akoodathu eehh adhu ealm crt eh panitom namba ..... appo nee oru expression la kooodatha paru semmma ..adha expression kagavye again and again polam anga ...enna sollura poidual ehh ..sollu .... poidlam .... ipo kooda enaku inum nala clear ehh theyudhu elayeh .... enna that feel ....softer than ever ....eppadidhanao ...... adhu apr board room pogalanu paathen ..bt time illa enna panrathu .next time namba enna panalam ...board room poga try panalam ..ana enna ...adhu elalm namba panuvom dhan thrl enna aagaum dhan ... bt aapo plan pananuvom ...nee vera feb varanu vera sonnna enkitta ahdukual eahcum persua ready pananuam .... neega cnfrm panita elmayeh pandualam ....eppo ulla sollreun maum sonnigna nala iurkum ..solirukinag seriyaa sseerkaama .....so nawait panren sollitdu ...okayy next time enna panarom nu papaom ..ippothiku ..moooditu iruken seriyaa ..bubyeee  ",
+    ],
+  },
+
   // Still More
   {
     title: "Still More",
     icon: meta,
     iconBg: "Black",
-    date: "Mar 30 - Present",
+    date: "Sep 10 - Present",
     points: [
       "So ippothiku evalo dhan .....bt dont worry..... we wil create more and more memories and add here ... i will update here and we could read it eppo venum ehh ....",
     ],
